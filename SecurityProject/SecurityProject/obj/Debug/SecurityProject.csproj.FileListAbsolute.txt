@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\vsc\SecurityProject\SecurityProject\bin\Debug\SecurityProject.exe.config
+C:\Users\USER\Desktop\vsc\SecurityProject\SecurityProject\bin\Debug\SecurityProject.exe
+C:\Users\USER\Desktop\vsc\SecurityProject\SecurityProject\bin\Debug\SecurityProject.pdb
+C:\Users\USER\Desktop\vsc\SecurityProject\SecurityProject\obj\Debug\SecurityProject.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\vsc\SecurityProject\SecurityProject\obj\Debug\SecurityProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\vsc\SecurityProject\SecurityProject\obj\Debug\SecurityProject.Form1.resources
+C:\Users\USER\Desktop\vsc\SecurityProject\SecurityProject\obj\Debug\SecurityProject.Properties.Resources.resources
+C:\Users\USER\Desktop\vsc\SecurityProject\SecurityProject\obj\Debug\SecurityProject.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\vsc\SecurityProject\SecurityProject\obj\Debug\SecurityProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\vsc\SecurityProject\SecurityProject\obj\Debug\SecurityProject.exe
+C:\Users\USER\Desktop\vsc\SecurityProject\SecurityProject\obj\Debug\SecurityProject.pdb
+C:\Users\USER\Desktop\vsc\SecurityProject\SecurityProject\bin\Debug\SecurityProject.exe.manifest
+C:\Users\USER\Desktop\vsc\SecurityProject\SecurityProject\bin\Debug\SecurityProject.application
+C:\Users\USER\Desktop\vsc\SecurityProject\SecurityProject\obj\Debug\SecurityProject.exe.manifest
+C:\Users\USER\Desktop\vsc\SecurityProject\SecurityProject\obj\Debug\SecurityProject.application
